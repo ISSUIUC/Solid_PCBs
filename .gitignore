@@ -1,43 +1,13 @@
-# For PCBs designed using KiCad: https://www.kicad.org/
-# Format documentation: https://kicad.org/help/file-formats/
+# For PCBs designed using 6.0 KiCad: https://www.kicad.org/
+# Format documentation: https://docs.kicad.org/6.0/en/kicad/kicad.html
+# Git - gitignore syntax: https://git-scm.com/docs/gitignore
 
-# Temporary files
-*.000
-*.bak
-*.bck
-*.kicad_pcb-bak
-*.kicad_sch-bak
-*-backups
-*-cache*
-*-bak
-*-bak*
-*~
-~*
+#Ignore Files
+*.sch-bak
 _autosave-*
-\#auto_saved_files\#
-*.tmp
-*-save.pro
-*-save.kicad_pcb
-fp-info-cache
-~*.lck
-\#auto_saved_files#
-
-# Netlist files (exported from Eeschema)
-*.net
-
-# Autorouter files (exported from Pcbnew)
-*.dsn
-*.ses
-
-# Exported BOM files
-*.xml
-*.csv
-
-# Archived Backups (KiCad 6.0)
-**/*-backups/*.zip
-
-# Local git-based history (KiCad 9.0+)
-.history
-
-# Local project settings
+.DS_Store
+*fp-info-cache
+*-backups
 *.kicad_prl
+*.bak
+*.lck
