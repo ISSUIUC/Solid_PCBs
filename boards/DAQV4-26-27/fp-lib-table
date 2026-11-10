@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ADS7066IRTER") (type "KiCad") (uri "../../libs/footprints/ADS7066IRTER.pretty") (options "") (descr ""))
+)
