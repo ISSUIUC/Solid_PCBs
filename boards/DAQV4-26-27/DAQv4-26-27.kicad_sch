@@ -12158,7 +12158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFN50P300X300X80-17N-D"
+		(property "Footprint" "ADS7066IRTER:QFN50P300X300X80-17N-D"
 			(at 471.17 271.45 0)
 			(hide yes)
 			(show_name no)
@@ -19633,7 +19633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFN50P300X300X80-17N-D"
+		(property "Footprint" "ADS7066IRTER:QFN50P300X300X80-17N-D"
 			(at 177.8 275.26 0)
 			(hide yes)
 			(show_name no)
