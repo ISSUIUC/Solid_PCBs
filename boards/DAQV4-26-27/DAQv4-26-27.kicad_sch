@@ -29402,7 +29402,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "d1fe9046-8eaf-47ba-b0ab-c3d0e6104ead")
+(uuid "d1fe9046-8eaf-47ba-b0ab-c3d0e6104ead")
 		(property "Reference" "C6"
 			(at 177.8 183.896 0)
 			(show_name no)
