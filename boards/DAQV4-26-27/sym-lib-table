@@ -1,5 +1,6 @@
 (sym_lib_table
 	(version 7)
+	(lib (name "ADS1235IRHBT") (type "KiCad") (uri "../../libs/symbols/ADS1235IRHBT.kicad_sym") (options "") (descr ""))
 	(lib (name "ADS7066IRTER") (type "KiCad") (uri "../../libs/symbols/ADS7066IRTER.kicad_sym") (options "") (descr ""))
 	(lib (name "TPS55340RTER") (type "KiCad") (uri "../../libs/symbols/TPS55340RTER.kicad_sym") (options "") (descr ""))
 )
